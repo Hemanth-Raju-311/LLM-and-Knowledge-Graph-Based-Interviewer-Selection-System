@@ -47,10 +47,6 @@ kg-interviewer-selection/
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/kg-interviewer-selection.git
-   cd kg-interviewer-selection
-   ```
 
 2. **Setup environment**
 
@@ -104,7 +100,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 * Inspiration from real-world interviewer selection challenges in recruitment.
 
 ---
-
-👉 This README will make your repo look professional and recruiter-friendly.
-
-Do you also want me to **expand this into a “Research-style” README** (with problem statement, objectives, methodology, results) so it reads more like an academic project?
