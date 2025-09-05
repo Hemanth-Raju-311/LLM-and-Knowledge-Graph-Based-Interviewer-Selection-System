@@ -1,4 +1,4 @@
-# AI and Knowledge Graph Based Interviewer Selection System
+# LLM and Knowledge Graph Based Interviewer Selection System
 
 This project leverages **Knowledge Graphs** and **LLMs (Large Language Models)** to intelligently recommend interviewers for candidates based on skill alignment. By parsing **resumes**, **job descriptions**, and domain knowledge, the system builds a structured knowledge graph to match expertise with requirements and select the most relevant interviewers.
 
