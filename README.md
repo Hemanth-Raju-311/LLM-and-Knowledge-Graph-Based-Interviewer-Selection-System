@@ -1,15 +1,15 @@
 # AI and Knowledge Graph Based Interviewer Selection System
 
-This project leverages **Knowledge Graphs** and **Natural Language Processing (NLP)** to intelligently recommend interviewers for candidates based on skill alignment. By parsing **resumes**, **job descriptions**, and domain knowledge, the system builds a structured knowledge graph to match expertise with requirements and select the most relevant interviewers.
+This project leverages **Knowledge Graphs** and **LLMs (Large Language Models)** to intelligently recommend interviewers for candidates based on skill alignment. By parsing **resumes**, **job descriptions**, and domain knowledge, the system builds a structured knowledge graph to match expertise with requirements and select the most relevant interviewers.
 
 ---
 
 ## 🚀 Features
 
-* **Resume Parsing** → Extracts technical and domain-specific skills from resumes (supports `.docx` and `.pdf`).
+* **Resume Parsing** → Extracts technical and domain-specific skills from resumes (supports `.docx`, `.pdf` and `.txt`).
 * **Job Description Analysis** → Identifies required skills from job postings.
 * **Knowledge Graph Generation** → Builds an academic/skills knowledge graph to represent expertise relationships.
-* **Skill Matching & Scoring** → Computes similarity scores between candidate skills and interviewer expertise.
+* **Skill Matching & Scoring** → Considers both skill coverage and semantic distance in the knowledge graph.
 * **Interviewer Recommendation** → Suggests the most suitable interviewer(s) based on the computed match.
 * **Multi-user Support** → Handles multiple resumes and interviewers in a single run.
 
