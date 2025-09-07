@@ -36,7 +36,6 @@ kg-interviewer-selection/
 ├── README.md             # Project documentation
 ├── requirements.txt      # Dependencies
 ├── run_setup.sh          # Quick setup script
-├── CONTRIBUTING.md       # Contribution guidelines
 ├── LICENSE               # MIT license
 └── .gitignore
 ```
